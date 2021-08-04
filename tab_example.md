@@ -6,7 +6,7 @@ order: 1
 tags: team
 ---
 
-###About Us
+### About Us
 
 
 ### Leaders
@@ -14,6 +14,6 @@ tags: team
 * [Shivam Dixit](mailto:shivam.dixit@owasp.org)
 * [Ankita Agarwal](mailto:ankita.agarwal@owasp.org)
 
-###Co-Leaders
+### Co-Leaders
 * [Rishabh Shukla]
 * [Pranjali Shah]
