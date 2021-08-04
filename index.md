@@ -18,3 +18,4 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 ## Next Meeting/Event
 ---------------------
+Soon!
