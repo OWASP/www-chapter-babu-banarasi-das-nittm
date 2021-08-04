@@ -17,4 +17,3 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
