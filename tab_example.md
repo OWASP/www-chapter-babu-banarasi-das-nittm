@@ -1,11 +1,19 @@
 ---
-title: Example
+title: About Us
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: team
 ---
 
-## Example
+###About Us
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+
+### Leaders
+* [Aman Srivastava](mailto:aman.srivastava@owasp.org)
+* [Shivam Dixit](mailto:shivam.dixit@owasp.org)
+* [Ankita Agarwal](mailto:ankita.agarwal@owasp.org)
+
+###Co-Leaders
+* [Rishabh Shukla]
+* [Pranjali Shah]
