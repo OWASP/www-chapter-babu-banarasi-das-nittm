@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Babu Banarasi Das NITTM
+title: OWASP Babu Banarasi Das NITM
 tags: example-tag
 region: Asia
 meetup-group:
