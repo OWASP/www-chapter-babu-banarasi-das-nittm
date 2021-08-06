@@ -1,4 +1,4 @@
-# www-chapter-babu-banarasi-das-nittm
+# OWASP Babu Banarasi Das National Institute of Technology and Management Chapter
 OWASP Foundation Web Respository
 
 https://owasp.org/www-chapter-babu-banarasi-das-nittm/
