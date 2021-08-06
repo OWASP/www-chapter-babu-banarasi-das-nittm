@@ -18,4 +18,4 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 ## Next Meeting/Event
 ---------------------
-Soon!
+{% include chapter_events.html group=page.meetup-group %}
