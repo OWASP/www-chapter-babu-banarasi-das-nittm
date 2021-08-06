@@ -1,4 +1,4 @@
-### Babu Banarasi Das NITTM Information
+### Babu Banarasi Das NITM Information
 * Provide Group Information
 
 ### Social Links
