@@ -13,10 +13,10 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 <h2>Leaders</h2>
 * [Aman Srivastava](https://www.linkedin.com/in/a-manonearth/)
 * [Shivam Dixit](mailto:shivam.dixit@owasp.org)
-* [Ankita Agarwal](mailto:ankita.agarwal@owasp.org)
+* [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-0a2a561a5)
 
 
 <h2>Team Members</h2>
-* [Rishabh Shukla]
+* [Rishabh Shukla](https://www.linkedin.com/in/0xrishabh/)
 * [Pranjali Shah](https://www.linkedin.com/in/pranjali-shah-7409351bb/)
 
