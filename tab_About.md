@@ -12,7 +12,6 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 <h2>Leaders</h2>
 * [Aman Srivastava](https://www.linkedin.com/in/a-manonearth/)
-* [Shivam Dixit](mailto:shivam.dixit@owasp.org)
 * [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-0a2a561a5)
 
 
