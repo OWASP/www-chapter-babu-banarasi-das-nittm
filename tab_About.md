@@ -2,7 +2,7 @@
 
 title: About
 displaytext: About Us
-layout: col-sidebar
+layout: null
 tab: true
 order: 1
 tags: Student Chapter
