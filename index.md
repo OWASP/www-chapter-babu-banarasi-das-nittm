@@ -27,8 +27,7 @@ There are 2 ways to participate in the OWASP BBDNITM Chapter Events
 * Speaking at the Event 
 
 <h3>Become a Speaker</h3>
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP BBDNITM Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
-[Speaker Form](https://forms.gle/CRLpUvNGajMttTPb6)
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP BBDNITM Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement). Visit the [Speakers](speakers.md) tab for more details and send the proposed talk details.
 
 ## Next Meeting/Event
 ---------------------
