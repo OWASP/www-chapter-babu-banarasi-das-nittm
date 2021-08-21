@@ -1,13 +1,4 @@
----
 
-title: speaker
-displaytext: Speakers
-layout: null
-tab: false
-order: 3
-tags: Student Chapter
-
----
 
 <h3>Become a Speaker</h3>
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP BBDNITM Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement).
