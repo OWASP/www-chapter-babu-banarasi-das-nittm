@@ -21,6 +21,6 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 * [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-0a2a561a5)
 
 
-## Team Members
+## Core Team
 * [Rishabh Shukla](https://www.linkedin.com/in/0xrishabh/)
 * [Pranjali Shah](https://www.linkedin.com/in/pranjali-shah-7409351bb/)
