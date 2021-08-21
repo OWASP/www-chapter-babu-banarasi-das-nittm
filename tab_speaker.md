@@ -3,7 +3,7 @@
 title: speaker
 displaytext: Speakers
 layout: null
-tab: false
+tab: true
 order: 3
 tags: Student Chapter
 
