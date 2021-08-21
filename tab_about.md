@@ -22,5 +22,5 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 
 ## Core Team
-* [Rishabh Shukla](https://www.linkedin.com/in/0xrishabh/)
-* [Pranjali Shah](https://www.linkedin.com/in/pranjali-shah-7409351bb/)
+* [Rishabh Shukla](https://www.linkedin.com/in/0xrishabh/)(Core Team Member)
+* [Pranjali Shah](https://www.linkedin.com/in/pranjali-shah-7409351bb/)(Academic Coordinator)
