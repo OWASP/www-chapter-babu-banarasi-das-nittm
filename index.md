@@ -11,6 +11,7 @@ postal-code: 226028
 
 ---
 
+<img src="assets/images/Logo.png"/>
 
 ## Welcome
 Welcome to the OWASP Babu Banarasi Das National Institute of Technology Student Chapter. We host AppSec Events, Chapter Meetings, and CTFs to disseminate information and increase awareness in Information Security. We intent to build a community where one can learn and discuss contemporary issues related to cybersecurity.
