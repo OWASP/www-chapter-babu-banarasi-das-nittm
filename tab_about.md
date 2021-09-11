@@ -15,8 +15,9 @@ tags: Student Chapter
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 ## About BBDITM
+<br>
 <img src="assets/images/bbditm-logo.png" />
-
+<br>
 <p>Babu Banarasi Das National Institute of Technology & Management, Lucknow (BBDNITM) is one of the efforts to cherish the memory of the great & noble soul Babu Banarasi Das Ji, Ex. Chief Minister, Govt. of Uttar Pradesh.
 With a privilege of having inherited his legacy, BBDNITM pioneered and today offers the richest programs in Engineering and Management. Since it’s establishment in 1998, we have been striving for setting high standards for oue stake holders, and committed to meeting our social responsibilities. We are incorporating world’s best academic practices into all our academic programs.</p>
 <br>
