@@ -28,6 +28,7 @@ Director<br>
 BBDITM, Lucknow<br>
 </p>
 <br>
+<hr>
 
 ## Leaders
 * [Aman Srivastava](https://www.linkedin.com/in/a-manonearth/)
