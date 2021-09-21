@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Babu Banarasi Das NITM
-tags: Student Chapter
+title: OWASP Babu Banarasi Das NITM - Student Chapter
+tags: 
 level: 0
 region: Asia
 meetup-group: owasp-babu-banarasi-das-nittm
