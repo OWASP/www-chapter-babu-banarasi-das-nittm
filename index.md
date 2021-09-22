@@ -31,4 +31,17 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Event: A Hacker's POV on Cyberspace and it's Security
+Date: 2021-09-23
+Time: 11:00 (Asia/Calcutta) 
+Link: https://www.meetup.com/owasp-babu-banarasi-das-nittm/events/280917169/
+Description:
+Event Title: A Hacker's POV on Cyberspace and it's Security
+
+About Session:
+The event will start off with the roots of cybersecurity in which the attendees will be introduced about the cyberspace and cybersecurity. Their attention will be drawn towards the fact that they are not safe in today's cyberspace.
+
+Then there will be a demonstration of risks of using any public network and a brief introduction will be given about hacking and hackers. Eventually they will be taught some hacking skills and asked to try their hands on hacking.
+
+About Speaker:
+[Aman Srivastava](https://www.linkedin.com/in/a-manonearth/) is currently CS undergrad student. He has a strong background in Cybersecurity. He is Certified Ethical Hacker and ISAC Certified Cyber Crime Intervention Officer. He has worked with 10+ companies and help them secure their websites.
