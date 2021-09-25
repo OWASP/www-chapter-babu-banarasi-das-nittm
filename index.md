@@ -30,3 +30,4 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 ## Next Meeting/Event
 ---------------------
+{% include chapter_events.html group=page.meetup-group %}
