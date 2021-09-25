@@ -40,7 +40,3 @@ BBDITM, Lucknow<br>
 * [Shivam Dixit]()
 * [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-0a2a561a5)
 
-
-## Core Team
-* [Rishabh Shukla](https://www.linkedin.com/in/0xrishabh/) (Core Team Member)
-* [Pranjali Shah](https://www.linkedin.com/in/pranjali-shah-7409351bb/) (Academic Coordinator)
