@@ -11,6 +11,6 @@ tags: Student Chapter
 ## Past Events
 ### A Hacker's POV on Cyberspace and it's Security - Thu, Sept 23 · 11:00 AM to 01:00 PM (IST)
 
-<img src="/assets/images/poster.png"/>
+<img src="assets/images/poster.png" width="500" height="500" />
 
 - [Meetup Details](https://www.meetup.com/owasp-babu-banarasi-das-nittm/events/280917169/)
