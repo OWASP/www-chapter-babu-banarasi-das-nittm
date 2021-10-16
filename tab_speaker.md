@@ -15,7 +15,7 @@ tags: Student Chapter
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP BBDNITM Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement).
 You can send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
-[Email Us](mailto:aman.srivastava@owasp.org).
+[Email Us](mailto:bbdnitm-chapter@owasp.org).
 
 **Email Format :**
 
