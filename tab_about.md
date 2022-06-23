@@ -19,8 +19,8 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 <img src="assets/images/bbditm-logo.png" />
 <br>
 <br>
-<p>Babu Banarasi Das National Institute of Technology & Management, Lucknow (BBDNITM) is one of the efforts to cherish the memory of the great & noble soul Babu Banarasi Das Ji, Ex. Chief Minister, Govt. of Uttar Pradesh.
-With a privilege of having inherited his legacy, BBDNITM pioneered and today offers the richest programs in Engineering and Management. Since it’s establishment in 1998, we have been striving for setting high standards for oue stake holders, and committed to meeting our social responsibilities. We are incorporating world’s best academic practices into all our academic programs.</p>
+<p>Babu Banarasi Das Institute of Technology & Management, Lucknow (BBDITM) is one of the efforts to cherish the memory of the great & noble soul Babu Banarasi Das Ji, Ex. Chief Minister, Govt. of Uttar Pradesh.
+With a privilege of having inherited his legacy, BBDITM pioneered and today offers the richest programs in Engineering and Management. Since it’s establishment in 1998, we have been striving for setting high standards for oue stake holders, and committed to meeting our social responsibilities. We are incorporating world’s best academic practices into all our academic programs.</p>
 <br>
 
 <img src="assets/images/director.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
